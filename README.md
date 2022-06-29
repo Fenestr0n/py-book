@@ -165,7 +165,7 @@ id sem consectetuer libero luctus adipiscing.
 
 Картинка без `alt` текста
 
-![](https://via.placeholder.com/80/08b.png/fff)
+![](https://via.placeholder.com/80.png)
 
 Картинка с альтом и тайтлом:
 
@@ -176,12 +176,9 @@ id sem consectetuer libero luctus adipiscing.
 Картинки «сноски»:
 
 ![Картинка][image1]
-![Картинка][image2]
-![Картинка][image3]
 
 [image1]: https://via.placeholder.com/100/09f/fff.png
-[image2]: https://via.placeholder.com/200/09f.png/fff
-[image3]: https://via.placeholder.com/300.png/09f/fff
+
 
 Картинки-ссылки:
 
