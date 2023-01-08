@@ -10,5 +10,5 @@ n = int(input("Количество элементов списка: "))
 lst = [randint(0, 9) for _ in range(1, n + 1)]
 print(lst)
 
-odd = [i for i in lst if lst.index(i) % 2 != 0]
+odd = [lst[i] for i in range(0, len(lst)) if i % 2 != 0]
 print(f"На нечётных позициях элементы {odd}, ответ: {sum(odd)}")
