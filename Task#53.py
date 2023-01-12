@@ -6,7 +6,7 @@
 
 
 import math
-from decimal import Decimal
+
 
 num = float(input("Введите точность числа в диапазоне [0.1, 1e-10] >>> "))
 
